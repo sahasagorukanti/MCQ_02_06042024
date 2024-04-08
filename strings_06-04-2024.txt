@@ -1,0 +1,50 @@
+1.Which of these method of String class can be used to test to strings for equality?
+a) isequal()
+b) isequals()
+c) equal()
+d) equals()
+
+Answer:d
+
+2.In Java, which operator is used to concatenate two strings?
+a) +
+b) &
+c) ,
+d) |
+
+Answer:a
+
+
+3 .How do you convert a string to lowercase in Java?
+a) str.toLower()
+b) str.toLowerCase()
+c) str.convertToLower()
+d) str.makeLowerCase()
+
+Answer: b
+
+
+4. Which of the following statements are incorrect?
+a) String is a class
+b) Strings in java are mutable
+c) Every string is an object of class String
+d) Java defines a peer class of String, called StringBuffer, which allows string to be altered
+
+Answer: b
+
+
+5 .What will be the output of the following Java program?
+
+
+    class string_class 
+    {
+        public static void main(String args[])
+        {
+            String obj = "I LIKE JAVA";   
+            System.out.println(obj.charAt(3));
+        } 
+    }
+a) I
+b) L
+c) K
+d) E
